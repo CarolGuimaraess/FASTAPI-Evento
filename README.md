@@ -1,4 +1,4 @@
-# FASTAPI-Eventos
+# FASTAPI-Evento
 
 # Gerenciamento de Eventos com FastAPI
 Esta é uma API simples para gerenciamento de eventos, construída com FastAPI em Python.

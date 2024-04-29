@@ -22,12 +22,6 @@ Retorna detalhes de um evento específico com o ID fornecido.
 POST /eventos/
 Cria um novo evento. Os campos necessários são:
 
-id: ID único do evento (inteiro)
-nome: Nome do evento (string)
-descricao: Descrição do evento (string)
-data: Data do evento (string)
-localizacao: Localização do evento (string)
-
 PUT /eventos/{evento_id}
 Atualiza os detalhes de um evento existente com o ID fornecido. Os campos necessários são os mesmos que na criação do evento.
 

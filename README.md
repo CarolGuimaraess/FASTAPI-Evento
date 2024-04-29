@@ -30,6 +30,9 @@ Exclui um evento existente com o ID fornecido.
 
 *Após ter dado GIT CLONE no projeto:*
 
+# Instalação
+você precisará do Python instalado em seu sistema. 
+
 # Certifique-se de ter todas as dependências instaladas. Você pode instalá-las executando:
 - pip install fastapi uvicorn
 

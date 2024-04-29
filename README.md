@@ -34,7 +34,7 @@ Atualiza os detalhes de um evento existente com o ID fornecido. Os campos necess
 DELETE /eventos/{evento_id}
 Exclui um evento existente com o ID fornecido.
 
-*Apos ter dado GIT CLONE no projeto:*
+*Após ter dado GIT CLONE no projeto:*
 
 # Certifique-se de ter todas as dependências instaladas. Você pode instalá-las executando:
 - pip install fastapi uvicorn
